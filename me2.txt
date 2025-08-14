@@ -1,0 +1,5 @@
+Hello my name is Shwet Chourey currently working as frontend developer in metabull universe
+I am Studying mern development in cybrom technologies
+I have completed my graduation from bansal college of engineering
+I Have proficient knowledge in html, css,TailwindCss, and mediate knowledge of JavaScript ,
+Reactjs, and Basic knowledge Of C++,C,Python,Java,And DSA
